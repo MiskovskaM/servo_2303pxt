@@ -9,7 +9,7 @@
     basic.pause(20)
 })*/
 
-let servo1 = servoPWM.createServo(AnalogPin.P2)
+/*let servo1 = servoPWM.createServo(AnalogPin.P2)
 
 
 servo1.setPulse(1000)
@@ -25,5 +25,7 @@ input.onButtonPressed(Button.B, function () {
 input.onButtonPressed(Button.AB, function () {
     servo1.stop()
 })
+*/
+
 
 
